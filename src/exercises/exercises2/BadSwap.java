@@ -25,7 +25,7 @@ public class BadSwap {
 		//   Note that the bad swap executes only if x>y
 		//
 		// Your answer:
-		//
+		//if x is greater than y then x becomes y then y becomes x so basically they both become y is the if x > y
 		//
 		//
 		//
